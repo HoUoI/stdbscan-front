@@ -1,0 +1,30 @@
+{
+  "name": "vue3_cli_default",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.3.1",
+    "axios": "^1.6.8",
+    "echarts": "^5.5.0",
+    "element-plus": "^2.4.2",
+    "js-audio-recorder": "^1.0.7",
+    "recorder-js": "^1.0.7",
+    "unplugin-auto-import": "^0.16.7",
+    "unplugin-icons": "^0.17.4",
+    "unplugin-vue-components": "^0.25.2",
+    "viewerjs": "^1.11.6",
+    "vue": "^3.2.8",
+    "vue-router": "^4.0.13",
+    "wavesurfer.js": "^7.4.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.6.0",
+    "@vue/compiler-sfc": "^3.2.6",
+    "vite": "^2.5.2",
+    "vite-plugin-windicss": "^1.9.1"
+  }
+}
